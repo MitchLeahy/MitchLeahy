@@ -1,7 +1,7 @@
 Hi, I’m @MitchLeahy a Data Analyst/Web Developer at Point 2 Point Global, a global shipping solutions company.
 
 Stuff I do at P2PG:
-  - Build data preprocessing tools and deploy them as webapps on heroku.
+  - Build and deploy data preprocessing tools.
   - Automate my co-workers boring tasks (I'm popular). 
   - Provide project performance analytics to management.
 
