@@ -1,9 +1,13 @@
-Hi, I’m @MitchLeahy a Data Analyst/Web Developer at Point 2 Point Global, a global shipping solutions company.
+Hi, I’m @MitchLeahy formerly a Data Analyst/Web Developer at Point 2 Point Global, a global shipping solutions company. Currently, I am a Data Engineer Co-op at Retail Business Services (RBS).
 
-Stuff I do at P2PG:
-  - Build and deploy data preprocessing tools.
-  - Automate my co-workers boring tasks (I'm popular). 
-  - Provide project performance analytics to management.
+Stuff I've done at RBS:
+  - Built a tool that assisted with data model optimization
+  - Built a system that makes bulk updatiung assets in purview easier
+
+Stuff I did at P2PG:
+  - Built and deployed data preprocessing tools.
+  - Automated my co-workers boring tasks (I was popular). 
+  - Provided project performance analytics to management.
 
 <!---
 MitchLeahy/MitchLeahy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
