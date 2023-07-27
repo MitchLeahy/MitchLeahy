@@ -2,7 +2,7 @@ Hi, I’m @MitchLeahy formerly a Data Analyst/Web Developer at Point 2 Point Glo
 
 Stuff I've done at RBS:
   - Built a tool that assisted with data model optimization
-  - Built a system that makes bulk updatiung assets in purview easier
+  - Built a web app that makes bulk updating assets in purview easier
 
 Stuff I did at P2PG:
   - Built and deployed data preprocessing tools.
