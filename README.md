@@ -1,8 +1,9 @@
-Hi, I’m @MitchLeahy formerly a Data Analyst/Web Developer at Point 2 Point Global, a global shipping solutions company. Currently, I am a Data Engineer Co-op at Retail Business Services (RBS).
+Hi, I’m @MitchLeahy formerly a Data Analyst/Web Developer at Point 2 Point Global. Currently, I am a Data Engineer Co-op at Retail Business Services (RBS).
 
 Stuff I've done at RBS:
   - Built a tool that assisted with data model optimization
   - Built a web app that makes bulk updating assets in purview easier
+  - Created a data pipeline to store changes made to purview data assets
 
 Stuff I did at P2PG:
   - Built and deployed data preprocessing tools.
