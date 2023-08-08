@@ -2,7 +2,7 @@
 **Mitch Leahy**
 *Data Engineer & Web Developer*
 
-🔗 **LinkedIn**: [MitchLeahy](#) *(https://www.linkedin.com/in/mitchell-leahy/)*  
+🔗 **LinkedIn**: [MitchLeahy](https://www.linkedin.com/in/mitchell-leahy/) 
 
 
 ---
