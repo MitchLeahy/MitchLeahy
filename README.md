@@ -25,7 +25,7 @@
 
 - 📈 **Data Preprocessing**: Engineered and deployed advanced data preprocessing tools, laying the foundation for accurate analytics and reporting.
 
-- 🤖 **Automation Master**: Automated mundane tasks, enhancing workplace productivity and becoming the go-to person for process improvements.
+- 🤖 **Automation**: Automated mundane tasks, enhancing workplace productivity and becoming the go-to person for process improvements.
 
 - 📊 **Performance Analytics**: Delivered critical project performance analytics to leadership, driving data-informed decision-making processes.
 
